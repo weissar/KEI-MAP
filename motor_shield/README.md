@@ -6,3 +6,4 @@ Produktové stránky na laskakit.cz:
 * [Krokový motor 28BYJ-48](https://www.laskakit.cz/krokovy-motor-28byj-48/)
 * [Mikroservo kontinuální](https://www.laskakit.cz/plastove-micro-servo-sg90-9g--kontinualni/)
 * [Mikroservo](https://www.laskakit.cz/plastove-micro-servo-sg90-9g--180/)
+* [Snímač otáček](https://www.laskakit.cz/fotoelektricky-snimac-otacek/)
