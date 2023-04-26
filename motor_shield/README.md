@@ -7,3 +7,6 @@ Produktové stránky na laskakit.cz:
 * [Mikroservo kontinuální](https://www.laskakit.cz/plastove-micro-servo-sg90-9g--kontinualni/)
 * [Mikroservo](https://www.laskakit.cz/plastove-micro-servo-sg90-9g--180/)
 * [Snímač otáček](https://www.laskakit.cz/fotoelektricky-snimac-otacek/)
+
+Zapojení krokového motoru:
+[]
