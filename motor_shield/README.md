@@ -9,5 +9,5 @@ Produktové stránky na laskakit.cz:
 * [Snímač otáček](https://www.laskakit.cz/fotoelektricky-snimac-otacek/)
 
 Zapojení krokového motoru:
-!(./28BYJ-48-Pinout-Wirings.png)
+![Stepper Wiring](./28BYJ-48-Pinout-Wirings.png)
 viz. [zdroj](https://components101.com/motors/28byj-48-stepper-motor)
