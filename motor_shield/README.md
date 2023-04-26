@@ -8,6 +8,5 @@ Produktové stránky na laskakit.cz:
 * [Mikroservo](https://www.laskakit.cz/plastove-micro-servo-sg90-9g--180/)
 * [Snímač otáček](https://www.laskakit.cz/fotoelektricky-snimac-otacek/)
 
-Zapojení krokového motoru:
+Zapojení krokového motoru - viz. [zdroj](https://components101.com/motors/28byj-48-stepper-motor)
 ![Stepper Wiring](./28BYJ-48-Pinout-Wirings.png)
-viz. [zdroj](https://components101.com/motors/28byj-48-stepper-motor)
