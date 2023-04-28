@@ -9,6 +9,6 @@ Reálně je to známé jako [LilyGO TTGO 16x8 LED Matrix displej](http://www.lil
 * Časování signálů - viz. DS kap. VI
 * Význam příkazů - viz. DS kap. VII
 
-Pozor, max. frekvence hodin je 1MHz (kap. V) - pro takt mikrokontroléru 16MHz se asi nemusí řešit.
+Max. frekvence hodin je 1MHz (kap. V) - pro takt mikrokontroléru 16MHz se asi nemusí řešit.
 
 ![Pohled na shield s vyznačením 0,0](./LED-16x8%20SHIELD.jpg)
