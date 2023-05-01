@@ -12,3 +12,7 @@ Reálně je to známé jako [LilyGO TTGO 16x8 LED Matrix displej](http://www.lil
 Max. frekvence hodin je 1MHz (kap. V) - pro takt mikrokontroléru 16MHz se asi nemusí řešit.
 
 ![Pohled na shield s vyznačením 0,0](./LED-16x8%20SHIELD.jpg)
+
+Další komponenty:
+* akcelerometr [LIS2DE12TR](https://www.st.com/en/mems-and-sensors/lis2de12.html)
+* Spínačový [joystick](https://tech.alpsalpine.com/e/products/detail/SKRHABE010/) - zobrazeno zapojení vývodů
